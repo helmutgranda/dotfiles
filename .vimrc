@@ -222,6 +222,7 @@ endif
 "set cursorline
 "   ~enable terminal italics
 let g:onedark_terminal_italics = 1
+set t_Co=256
 "   ~enable terminal 256 colors
 let g:onedark_termcolors=256
 
